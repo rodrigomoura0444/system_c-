@@ -1,0 +1,15 @@
+/Users/rodrigoferreiramoura/system_c-/command/bin/Debug/net8.0/command
+/Users/rodrigoferreiramoura/system_c-/command/bin/Debug/net8.0/command.deps.json
+/Users/rodrigoferreiramoura/system_c-/command/bin/Debug/net8.0/command.runtimeconfig.json
+/Users/rodrigoferreiramoura/system_c-/command/bin/Debug/net8.0/command.dll
+/Users/rodrigoferreiramoura/system_c-/command/bin/Debug/net8.0/command.pdb
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.AssemblyInfoInputs.cache
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.AssemblyInfo.cs
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.csproj.CoreCompileInputs.cache
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.sourcelink.json
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.dll
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/refint/command.dll
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.pdb
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/command.genruntimeconfig.cache
+/Users/rodrigoferreiramoura/system_c-/command/obj/Debug/net8.0/ref/command.dll
